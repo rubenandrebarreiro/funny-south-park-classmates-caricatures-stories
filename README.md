@@ -20,7 +20,7 @@
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-south&nbsp;park&nbsp;series-brown.svg)](https://github.com/rubenandrebarreiro/funny-south-park-classmates-caricatures-stories/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-html-red.svg)](https://www.w3schools.com/html/) 
-[![software used no. 1](https://img.shields.io/badge/software-notepad++-gold.svg)](https://notepad-plus-plus.org/)
+[![software used no. 1](https://img.shields.io/badge/software-adobe&nbsp;flash.svg)](https://get.adobe.com/flashplayer/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=funny-south-park-classmates-caricatures-stories&style=flat)](https://github.com/rubenandrebarreiro/funny-south-park-classmates-caricatures-stories/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=funny-south-park-classmates-caricatures-stories&style=flat)](https://github.com/rubenandrebarreiro/funny-south-park-classmates-caricatures-stories/fork)
@@ -89,9 +89,8 @@ git clone git@github.com:rubenandrebarreiro/funny-south-park-classmates-caricatu
 ```
 
 ## Built with
+* [**_Adobe Flash_**](https://get.adobe.com/flashplayer/)
 * [**_HTML_**](https://www.w3schools.com/html/)
-* [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/)
-
 
 ## Contributors
 
